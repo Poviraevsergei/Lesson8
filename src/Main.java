@@ -94,7 +94,7 @@ public class Main {
         // random() - возвращает случайное число от 0.0 до 1.0
         // sqrt(double value) - возвращает квадратный корень числа value
 
-        //System.out.println(Math.abs(-50));
+        System.out.println(Math.abs(-50));
         //System.out.println(Math.ceil(0.000001));
         //System.out.println(Math.floor(0.999999));
         //System.out.println(Math.round(0.7));
